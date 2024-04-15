@@ -13,4 +13,4 @@ and don't say i don't know but...."""
 
 
 # run this command to fine tune a model
-# ollama create question-answering -f Modelfile
+# ollama create mistral-question-answering -f Modelfile

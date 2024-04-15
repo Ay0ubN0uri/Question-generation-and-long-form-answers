@@ -1,0 +1,4 @@
+llm,throughput
+mistral:7b,2.538
+llama2:7b,2.35
+llama2:13b,0.911
