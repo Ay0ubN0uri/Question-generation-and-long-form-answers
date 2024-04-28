@@ -22,6 +22,9 @@ The journey of evaluating an LLM application ideally follows a structured framew
 
 4. **Context_recall** : Measures the retriever’s ability to retrieve all necessary information required to answer the question.
 
+## LLMs Evaluation Final Score
+![LLMs Evaluation](./images/final_llm_evaluation.png)
+
 ## How to install
 
 There are two main parts for this projet, the first one is our fine-tuned LLM model, the second one is the ai avatar.
